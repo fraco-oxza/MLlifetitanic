@@ -16,4 +16,3 @@ elif opcion == "0":
 else:
      print("\nPor favor seleccione una opcion valida\n")
 
-#Prueba
