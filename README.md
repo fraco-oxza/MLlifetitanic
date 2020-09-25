@@ -1,9 +1,16 @@
 # MLlifetitanic
-Un proyecto de machine learning con una red neuronal para saber si alguien vive en caso de estar en el titanic
-# Funciona bastante bien
-Se nota que es una herramienta bastante util y que voy a
-aprender a usar y a aprender marcdown que no se ve tan complejo
-## fotito
-![imagen](https://regmedia.co.uk/2016/07/19/anonymous_897439873434.jpg "O un hacker")
 
-[google](https://www.google.com "Buscador")
+En este proyecto se aplico una red neuronal para poder predecir si una persona sobreviviria al titanic o no.
+
+### ¿Comó funciona?
+
+![Red Neuronal](ilustrations/NN.png)
+
+Lo que tenemos arriba es una sencilla ilustracion de una red neuronal, lo que hace es tomar multiples variables y hacer muchos calculos para arrojar finalmente un solo valor booleano, a esta red se le conococe com red de funcion sigmoidea
+
+### ¿Qué variables utiliza?
+
+Necesita algunas variables para iniciar:
+
+1. sexo
+2. edad
